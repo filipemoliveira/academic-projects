@@ -23,9 +23,7 @@ Each project has its own repository with source code, datasets, analyses, and ex
 
 ---
 
-## Contato
 **Filipe Oliveira**  
-[filipem.oliveira@outlook.com]  
 [https://github.com/filipemoliveira](https://github.com/filipemoliveira)
 
 ---
