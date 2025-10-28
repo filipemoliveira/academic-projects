@@ -10,7 +10,7 @@ Each project has its own repository with source code, datasets, analyses, and ex
 
 | Project | Description | Tecnologies |
 |----------|------------|--------------|
-| [Hospital AI Diagnosis](https://github.com/filipemoliveira/hospital-ai-diagnosis) | Medical diagnostic support system with machine learning and computer vision. | Python, Scikit-learn, TensorFlow |
+| [Hospital AI Diagnosis](https://github.com/filipemoliveira/hospital-ai-diagnosis) | Sistema de suporte a diagnóstico médico com aprendizado de máquina. | Python, Scikit-learn, TensorFlow |
 | _(coming soon)_ | Other projects in development |  |
 
 ---
