@@ -8,9 +8,9 @@ Each project has its own repository with source code, datasets, analyses, and ex
 
 ## Projetcs
 
-| Project | Description | Tecnologies |
+| Projetos | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [Hospital AI Diagnosis](https://github.com/filipemoliveira/hospital-ai-diagnosis) | Sistema de suporte a diagnóstico médico com aprendizado de máquina. | Python, Scikit-learn, TensorFlow |
+| [Diagnóstico de Diabetes - ML](https://github.com/filipemoliveira/hospital-ai-diagnosis) | Sistema de suporte a diagnóstico médico com aprendizado de máquina. | Python, Scikit-learn, TensorFlow |
 | _(coming soon)_ | Other projects in development |  |
 
 ---
