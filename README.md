@@ -1,8 +1,6 @@
-# Academic Projects
+# Repositório **central** para meus projetos e experimentos acadêmicos em Inteligência Artificial (IA), Aprendizado de Máquina (ML) e Ciência de Dados.
 
-**Hub** repository for my academic projects and experiments in Artificial Intelligence (AI), Machine Learning (ML), and Data Science.
-
-Each project has its own repository with source code, datasets, analyses, and execution instructions.
+Cada projeto possui seu próprio repositório com código-fonte, conjuntos de dados, análises e instruções de execução.
 
 ---
 
